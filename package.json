@@ -24,17 +24,17 @@
   },
   "tonicExampleFilename": "docs/examples/tonic.js",
   "dependencies": {
-    "immutable-class": ">=0.6.10",
+    "immutable-class": "0.6.18",
     "q": "1.4.1"
   },
   "peerDependencies": {
-    "chronoshift": "0.5.x"
+    "chronoshift": "github:panoplymedia/chronoshift#version-lock"
   },
   "devDependencies": {
     "@types/q": "0.0.30",
     "browserify": "13.1.0",
     "chai": "3.5.0",
-    "chronoshift": "0.5.8",
+    "chronoshift": "github:panoplymedia/chronoshift#version-lock",
     "f-tool": "0.1.3",
     "immutable-class-tester": "0.5.3",
     "istanbul": "0.4.5",
