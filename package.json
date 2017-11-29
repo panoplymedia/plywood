@@ -24,11 +24,9 @@
   },
   "tonicExampleFilename": "docs/examples/tonic.js",
   "dependencies": {
+    "chronoshift": "github:panoplymedia/chronoshift#version-lock",
     "immutable-class": "0.6.18",
     "q": "1.4.1"
-  },
-  "peerDependencies": {
-    "chronoshift": "github:panoplymedia/chronoshift#version-lock"
   },
   "devDependencies": {
     "@types/q": "0.0.30",
