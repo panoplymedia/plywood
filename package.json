@@ -32,7 +32,6 @@
     "@types/q": "0.0.30",
     "browserify": "13.1.0",
     "chai": "3.5.0",
-    "chronoshift": "github:panoplymedia/chronoshift#version-lock",
     "f-tool": "0.1.3",
     "immutable-class-tester": "0.5.3",
     "istanbul": "0.4.5",
